@@ -1,6 +1,6 @@
 # MicroPosts
 
-Posting app using webpack, babel & json-server
+Posting app using webpack, babel & json-server.
 
 
 
